@@ -6,6 +6,7 @@ Beyond web development, Kaladi specializes in AI and automation, developing inte
 
 Subhan Kaladi is an active content creator, sharing his knowledge on his YouTube channel, where he covers topics like full-stack deployment, prompt engineering, and AI. He also contributes articles on web development and Python to Medium. His work and projects, including those related to OpenAI Agents SDK and his academic pursuits, are available on GitHub.
 
+# Social Media
 ## Sources:
 
 *   [Vercel App](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAUS21dQvvLw9WWwxoqNVXhj4sKAeabTfhgpBrNnqxsMmnyUk7RDLf6qrv9bLcty6ZgRFsqIbhrCRRD82WeWxkayFKpeCFEWToy3NcR2OVi6H0D2fs984Ix-k=)
